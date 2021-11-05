@@ -1,0 +1,64 @@
+[{
+        "area": "Back Bay",
+        "rent": 29,
+        "income": 90,
+        "population": 218.8,
+        "charles": true
+    },
+    {
+        "area": "Charlestown",
+        "rent": 25,
+        "income": 80,
+        "population": 164.4,
+        "charles": false
+    },
+    {
+        "area": "Chinatown",
+        "rent": 32,
+        "income": 70,
+        "population": 68.7,
+        "charles": false
+    },
+    {
+        "area": "Downtown",
+        "rent": 33,
+        "income": 60,
+        "population": 19.8,
+        "charles": true
+    },
+    {
+        "area": "Fenway",
+        "rent": 24,
+        "income": 50,
+        "population": 217.7,
+        "charles": true
+    },
+    {
+        "area": "Mission Hill",
+        "rent": 21,
+        "income": 40,
+        "population": 139.3,
+        "charles": false
+    },
+    {
+        "area": "North End",
+        "rent": 23,
+        "income": 30,
+        "population": 106.1,
+        "charles": false
+    },
+    {
+        "area": "Allston",
+        "rent": 19,
+        "income": 20,
+        "population": 288.2,
+        "charles": true
+    },
+    {
+        "area": "Brighton",
+        "rent": 17,
+        "income": 10,
+        "population": 459.8,
+        "charles": true
+    }
+]
